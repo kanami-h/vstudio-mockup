@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "lite-server --baseDir=\"public/src\""
+    "start": "lite-server --baseDir=\"public\""
   },
   "author": "",
   "license": "ISC",
@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "bootstrap": "^5.1.3",
-    "sass": "^1.43.4"
+    "moment": "^2.29.1",
+    "sass": "^1.43.4",
+    "uuid": "^8.3.2"
   }
 }

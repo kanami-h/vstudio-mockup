@@ -8,6 +8,7 @@
 .card {
   width: 22rem;
   border: none !important;
+  margin: 2rem 1rem 2rem;
 }
 
 .card-image {
